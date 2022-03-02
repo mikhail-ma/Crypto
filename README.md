@@ -1,3 +1,3 @@
 ### Crypto projects
 
-- New tokens on decentralized exchanges
+- New tokens on decentralized exchanges alerts
