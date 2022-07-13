@@ -6,7 +6,7 @@ The size and shape of a candle can tell a lot about the strength, momentum, and 
 
 Context is important in candlestick analysis, as a result of which the current candle is always considered in the context of the overall market movement. That is why a trader should not rely only on candlestick patterns for making trading decisions, but their appearance deserves attention.
 
-### Patterns
+### Pattern Recognition
 
 ![alt text](https://www.tradingview.com/x/UF4uIhLq/)
 
