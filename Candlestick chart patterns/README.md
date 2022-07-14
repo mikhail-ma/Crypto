@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="850" height="495" src="https://www.tradingview.com/x/UF4uIhLq/">
+</p>
+
 ### About Candles
 
 Chart analysis can give a trader insight into the current market environment - what is happening right here and right now. Each candle carries useful information for santiment understanding: the market's open, high, low, and close price for the time period.
@@ -7,8 +11,6 @@ The size and shape of a candle can tell a lot about the strength, momentum, and 
 Context is important in candlestick analysis, as a result of which the current candle is always considered in the context of the overall market movement. That is why a trader should not rely only on candlestick patterns for making trading decisions, but their appearance deserves attention.
 
 ### Pattern Recognition
-
-![alt text](https://www.tradingview.com/x/UF4uIhLq/)
 
 You can find a huge number of candlestick patterns in books, most of which are useless in real life. I used the TA-Lib library for pattern discovery and out of an initial 60+ patterns, 40 were initially selected. Of these, 11 appeared only once during the entire study period, so it is not yet possible to evaluate them to the proper extent.
 
